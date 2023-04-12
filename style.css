@@ -1,0 +1,23 @@
+.container-fluid{
+position: absolute; 
+display: inline-block; 
+}
+.container-fluid img{
+    width: 400px;
+}
+.ml{
+    margin: 100px;
+}
+.form{
+    width:500px;
+}
+.container{
+
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 300px;
+   
+}
+.container th{
+    padding: 20px;
+}
